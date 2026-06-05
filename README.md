@@ -20,8 +20,7 @@ A responsive clone of the Amazon homepage built using HTML and CSS.
 ![Homepage](assets/screenshots/homepagge.png)
 
 ## Live Demo
-
-https://github.com/devjeetdawn14/amazon-clone
+https://devjeetdawn14.github.io/amazon-clone/
 
 ## Author
 
