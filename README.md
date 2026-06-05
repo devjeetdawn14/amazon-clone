@@ -17,7 +17,7 @@ A responsive clone of the Amazon homepage built using HTML and CSS.
 
 ## Screenshot
 
-![Homepage](assets/screenshots/homepage.png)
+![Homepage](assets/screenshots/homepagge.png)
 
 ## Live Demo
 
