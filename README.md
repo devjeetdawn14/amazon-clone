@@ -25,3 +25,4 @@ https://devjeetdawn14.github.io/amazon-clone/
 ## Author
 
 Devjeet Dawn
+first merge
